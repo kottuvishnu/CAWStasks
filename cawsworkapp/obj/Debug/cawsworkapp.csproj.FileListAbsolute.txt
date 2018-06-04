@@ -1,0 +1,10 @@
+D:\work\cawsworkapp\cawsworkapp\bin\Debug\cawsworkapp.exe.config
+D:\work\cawsworkapp\cawsworkapp\bin\Debug\cawsworkapp.exe
+D:\work\cawsworkapp\cawsworkapp\bin\Debug\cawsworkapp.pdb
+D:\work\cawsworkapp\cawsworkapp\obj\Debug\cawsworkapp.csprojResolveAssemblyReference.cache
+D:\work\cawsworkapp\cawsworkapp\obj\Debug\cawsworkapp.Form1.resources
+D:\work\cawsworkapp\cawsworkapp\obj\Debug\cawsworkapp.Properties.Resources.resources
+D:\work\cawsworkapp\cawsworkapp\obj\Debug\cawsworkapp.csproj.GenerateResource.cache
+D:\work\cawsworkapp\cawsworkapp\obj\Debug\cawsworkapp.csproj.CoreCompileInputs.cache
+D:\work\cawsworkapp\cawsworkapp\obj\Debug\cawsworkapp.exe
+D:\work\cawsworkapp\cawsworkapp\obj\Debug\cawsworkapp.pdb
